@@ -17,7 +17,7 @@ Esse clone da interface do youtube foi criado para treinar meus conhecimentos. A
 - React.js
     - styled-components
     - react-icons
- 
+
 <h2 id="pre">Pré-requisitos ✏️</h2>
  
 Para esse projeto funcionar, vai ser preciso algumas ferramentas:
