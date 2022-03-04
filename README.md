@@ -9,18 +9,17 @@
     - <a href="#pre">Pré-requisitos</a>
     - <a href="#rodando">Rodando a aplicação</a>
     - <a href="#pessoal">Pessoal</a>
-    - <a href="#pessoal">Pessoal</a>
 </p>
  
-## Sobre ✨
+<h2 id="sobre">Sobre ✨</h2>
  
 Esse clone da interface do youtube foi criado para treinar meus conhecimentos. Apenas com a visualização do youtube tentei fazer a replica da UI do youtube.
  
-## Tecnologias 💻
+<h2 id="tecnologias">Tecnologias 💻</h2>
  
 - React.js
  
-## Destaques 🏴
+<h2 id="destaques">Destaques 🏴</h2>
  
 * [ ] Responsividade
 * [ ] Navegação
@@ -47,8 +46,8 @@ $ npm install
 $ npm run dev
 ```
  
-## Pessoal 🙋‍♂️
- 
+<h2 id="destaques">Pessoal 🙋‍♂️</h2>
+
 Linkedin: https://www.linkedin.com/in/hugo-vitorino/
 </br>
 Email: hugocortezprog@gmail.com
