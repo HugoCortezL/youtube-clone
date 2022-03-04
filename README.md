@@ -22,6 +22,8 @@ Esse clone da interface do youtube foi criado para treinar meus conhecimentos. A
 <h2 id="destaques">Destaques 🏴</h2>
 
 * [X] Home page
+* [ ] Página dos shorts
+* [ ] Página de explorar
 * [ ] Página de um video
 * [ ] Responsividade
 * [ ] Navegação
