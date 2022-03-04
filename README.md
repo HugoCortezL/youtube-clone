@@ -20,7 +20,9 @@ Esse clone da interface do youtube foi criado para treinar meus conhecimentos. A
 - React.js
  
 <h2 id="destaques">Destaques 🏴</h2>
- 
+
+* [ ] Home page
+* [ ] Página de um video
 * [ ] Responsividade
 * [ ] Navegação
  
