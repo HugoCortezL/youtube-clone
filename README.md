@@ -10,7 +10,7 @@
  
 <h2 id="sobre">Sobre ✨</h2>
  
-Esse clone da interface do youtube foi criado para treinar meus conhecimentos. Apenas com a visualização do youtube tentei fazer a replica da UI do youtube.
+Esse clone da interface do youtube foi criado para treinar meus conhecimentos. Apenas com a visualização do youtube tentei fazer a replica da UI do youtube. Criei dados estáticos para simular um consumo de API.
  
 <h2 id="tecnologias">Tecnologias 💻</h2>
  
