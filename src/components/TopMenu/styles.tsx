@@ -49,6 +49,7 @@ export const SearchBar = styled.input`
     font-size: 17px;
     border: 1px solid #c3c3c3;
     border-radius: 3px 0 0 3px;
+    padding: 0 65px 0 8px ;
     `
 
 export const SearchButton = styled.button`

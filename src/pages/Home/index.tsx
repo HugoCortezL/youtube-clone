@@ -1,6 +1,9 @@
 import { Container } from './styles'
+
 import VideoDisplay from '../../components/VideoDisplay'
-import TopMenu from '../../components/TopMenu'
+import Menu from '../../components/Menu'
+import TopicsBar from '../../components/TopicsBar'
+
 import { loadVideos } from '../../services/videos'
 
 const videos = loadVideos()
@@ -8,7 +11,8 @@ const videos = loadVideos()
 export default function Home() {
   return (
     <>
-      <TopMenu/>
+      <Menu/>
+      <TopicsBar/>
       <Container>
         {videos.map(video => <VideoDisplay key={video.id} video={video}/>)}  
       </Container>
