@@ -1,11 +1,8 @@
-<h1 align="center"> Youtube clone</h1>
- 
-<p align="center">🧱 Em construção 🧱</p> 
+<h1 align="center"> Home page Youtube clone</h1>
 
 <p align="center">
     <a href="#sobre">Sobre</a>
     - <a href="#tecnologias">Tecnologias</a>
-    - <a href="#destaques">Destaques</a>
     - <a href="#pre">Pré-requisitos</a>
     - <a href="#rodando">Rodando a aplicação</a>
     - <a href="#pessoal">Pessoal</a>
@@ -18,13 +15,8 @@ Esse clone da interface do youtube foi criado para treinar meus conhecimentos. A
 <h2 id="tecnologias">Tecnologias 💻</h2>
  
 - React.js
- 
-<h2 id="destaques">Destaques 🏴</h2>
-
-* [X] Home page
-* [ ] Página de um video
-* [ ] Responsividade
-* [ ] Navegação
+    - styled-components
+    - react-icons
  
 <h2 id="pre">Pré-requisitos ✏️</h2>
  
