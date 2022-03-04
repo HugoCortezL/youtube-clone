@@ -1,6 +1,6 @@
 <h1 align="center"> Youtube clone</h1>
  
-🧱 Em construção 🧱
+<p align="center">🧱 Em construção 🧱</p> 
 
 <p align="center">
     <a href="#sobre">Sobre</a>
@@ -46,7 +46,7 @@ $ npm install
 $ npm run dev
 ```
  
-<h2 id="destaques">Pessoal 🙋‍♂️</h2>
+<h2 id="pessoal">Pessoal 🙋‍♂️</h2>
 
 Linkedin: https://www.linkedin.com/in/hugo-vitorino/
 </br>
